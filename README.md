@@ -10,3 +10,4 @@ This repository is used to store my custom CSS files to optimize the Markdown pr
 
 1. 修改了标题颜色，使之为彩色，更好看 | Changed the title color to be colorful for better aesthetics
 2. 使各级标题居中 | Centered the headings of different levels
+3. 禁用了类似引用的行标记 | Disables line markers similar to blockquotes
